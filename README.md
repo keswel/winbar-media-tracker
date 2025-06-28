@@ -1,2 +1,4 @@
 # winbar-media-tracker
-Lightweight C++ plugin for Winbar that adds media tracking support.
+A lightweight C++ plugin for Winbar that adds media playback tracking support.
+
+Supports any media source outputting in the {artist} - {title} format.
