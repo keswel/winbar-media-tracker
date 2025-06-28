@@ -5,9 +5,7 @@ Supports any media source outputting in the {artist} - {title} format.
 
 ## Installation
 
-Ensure you have [Winbar](https://github.com/jmanc3/winbar) installed!
-
-### Option 2: From Source (Recommended)
+NOTE: Ensure you have [Winbar](https://github.com/jmanc3/winbar) installed!
 
 ```bash
 git clone https://github.com/keswel/winbar-media-tracker
