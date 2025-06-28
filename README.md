@@ -18,3 +18,10 @@ cd winbar-media-tracker
 ./install
 ```
 
+## Uninstall
+
+```bash
+cd ~/.config/winbar/plugins
+rm winbar-media-tracker.plugin
+```
+
